@@ -1,5 +1,5 @@
 # modis_package
-Some python scripts to process modis data. (change by [pyModis]("https://github.com/lucadelu/pyModis/blob/master/pymodis/convertmodis_gdal.py"))  
+Some python scripts to process modis data. 
 This package mainly use to convert modis land use to WRF geogrid format.
 
 ## License
@@ -43,5 +43,9 @@ convert to geogrid format (WRF supported)
 ./convert_geogrid.py -i clipped.tif -s 1
 ```
 
+### more
 See the code (argparse part) to specific parameters
+
+## Reference
+[pyModis]("https://github.com/lucadelu/pyModis")
 
