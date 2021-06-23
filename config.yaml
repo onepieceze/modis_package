@@ -1,0 +1,8 @@
+setting:
+  download_path: ./data
+dataset:
+  LP_DAAC:
+    MCD: MOTA
+    MYD: MOLA
+    MOD: MOLT
+collection: 6
