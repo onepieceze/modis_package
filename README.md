@@ -15,7 +15,7 @@ main: gdal, python-geogrid
 download modis data
 
 ```bash
-./chrome_download.py -t 20190101 -d MCD12Q1 -a china (should )
+./chrome_download.py -t 20190101 -d MCD12Q1 -a china (need chromedriver)
 ./download -t 20190101 -d MCD12Q1 -a china
 ```
 
